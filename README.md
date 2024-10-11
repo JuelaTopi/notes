@@ -2,6 +2,8 @@
 
 GBC - 101087887
 
+[CLI commands notes](docs/cli.md)
+
 # Number Row Characters
 - ! Exclamation Mark 
 - @ At symbol 
