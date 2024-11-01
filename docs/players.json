@@ -21,13 +21,13 @@
   },
   {
     "name": "Serena Williams", // string
-    "sport": "Tennis",
-    "team": {
-      "name": null,
-      "city": null
+    "sport": "Tennis",         // string
+    "team": {                  // object
+      "name": null,            // null
+      "city": null             // null          
     },
-    "position": "Player",
-    "age": 41
+    "position": "Player",      // string
+    "age": 41                  // number          
   },
   {
     "name": "Tom Brady",
